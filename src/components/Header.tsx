@@ -37,7 +37,7 @@ const Header = () => {
           <div className="flex items-center space-x-4">
             <div className="hidden lg:flex items-center space-x-2 text-sm text-gray-600">
               <Icon name="Phone" size={16} />
-              <span>+7 (495) 123-45-67</span>
+              <span>+7 (983) 225-05-01</span>
             </div>
             <Button className="bg-orange-500 hover:bg-orange-600">
               Заказать перевозку
